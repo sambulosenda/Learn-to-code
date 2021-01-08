@@ -4,7 +4,7 @@ This is a collection of in-person and online coding resources to recommend to an
 
 ---
 
-### Online
+### Online ''
 
 - [BaseCS](https://dev.to/t/basecs)
 
